@@ -29,13 +29,13 @@ st.help(range)
 st.write("Text with write")
 st.write(range(10))
 
-from PIL import Image
-img = Image.open("HMI.png")
-st.image(img, width=300,caption="HMI")
+# from PIL import Image
+# img = Image.open("HMI.png")
+# st.image(img, width=300,caption="HMI")
 
-vid_file = open("example.mp4", "rb")
-# vid_bytes = vid_file.read()
-st.video(vid_file)
+# vid_file = open("example.mp4", "rb")
+# # vid_bytes = vid_file.read()
+# st.video(vid_file)
 
 # audio_file = open("example.mp4","rb").read()
 # st.audio(audio_file,format='audio/mp3')
