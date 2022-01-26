@@ -4,7 +4,7 @@ import streamlit as st
 # import multiprocessing
 # from multiprocessing import Process, Value, Array
 # import time, os
-# import snap7
+import snap7
 # import struct
 import re
 
