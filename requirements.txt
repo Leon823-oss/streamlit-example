@@ -2,3 +2,4 @@ altair
 pandas
 streamlit
 python-snap7
+streamlit_lottie
