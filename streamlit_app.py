@@ -1,3 +1,5 @@
+# _*_ coding:utf-8 _*_
+
 import streamlit as st
 # import multiprocessing
 # from multiprocessing import Process, Value, Array
